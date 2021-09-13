@@ -72,7 +72,7 @@ The intermediate validation results and weight files(every 5 epoch) created duri
 
 1. If you want to train models, put the cartoon image set in "Data/cartoon/1/" directory. and put the real image set in "Data/real/0" directory.
 2. Open the Train.py and edit the parameters at line 20-41.
-3. Execute Train.py. (It takes a very long time.)
+3. Excute command `python Train.py`
 
 ## Our train results
 
